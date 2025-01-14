@@ -3,9 +3,9 @@
 
 int main(void) {
 	// The "\n" means "start a new line"
-	printf("Hello, world!\n");
+	printf("Hello, Josh!\n");
 
-	for (int i = 10; i > 0; i--) {
+	for (int i = 12; i > 0; i--) {
 		// "%d" means "insert a decimal (base-10) int here"
 		// Notice no "\n" - this will continue on one line...
 		printf("%d! ", i);
